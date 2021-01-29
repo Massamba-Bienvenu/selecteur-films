@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/selecteur-films/static/js/main.6f14fba1.chunk.js",
+    "main.js.map": "/selecteur-films/static/js/main.6f14fba1.chunk.js.map",
+    "runtime-main.js": "/selecteur-films/static/js/runtime-main.db31e852.js",
+    "runtime-main.js.map": "/selecteur-films/static/js/runtime-main.db31e852.js.map",
+    "static/css/2.42dff94b.chunk.css": "/selecteur-films/static/css/2.42dff94b.chunk.css",
+    "static/js/2.9d35eda3.chunk.js": "/selecteur-films/static/js/2.9d35eda3.chunk.js",
+    "static/js/2.9d35eda3.chunk.js.map": "/selecteur-films/static/js/2.9d35eda3.chunk.js.map",
+    "index.html": "/selecteur-films/index.html",
+    "static/css/2.42dff94b.chunk.css.map": "/selecteur-films/static/css/2.42dff94b.chunk.css.map",
+    "static/js/2.9d35eda3.chunk.js.LICENSE.txt": "/selecteur-films/static/js/2.9d35eda3.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/selecteur-films/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db31e852.js",
+    "static/css/2.42dff94b.chunk.css",
+    "static/js/2.9d35eda3.chunk.js",
+    "static/js/main.6f14fba1.chunk.js"
+  ]
+}
